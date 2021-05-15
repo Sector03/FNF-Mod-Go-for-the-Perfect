@@ -7,6 +7,10 @@ Source Code for the "Go for the Perfect" GameBanana mod.
 
 # Download from GameBanana: https://gamebanana.com/mods/44200
 
-# By Sector03![6081b7631d148](https://user-images.githubusercontent.com/61670787/118375783-ef9f1e00-b591-11eb-86f7-e76415b672d8.png)
-Please do not claim any art assets as yours, If you wish to use any of my art from the mod please contact me! I'm very chill about it. :)
+# Credits
+* ![6081b7631d148](https://user-images.githubusercontent.com/61670787/118375783-ef9f1e00-b591-11eb-86f7-e76415b672d8.png) Sector03 - Art
+* ![603e7d5a933df](https://user-images.githubusercontent.com/61670787/118376964-12810080-b599-11eb-9be0-76397d7f9e5b.png) KadeDev - Kade Engine Base
+
+Please do not claim any art assets as yours, If you wish to use any of my art from the mod please contact me! I'm very chill about it!
+
 (Made public to respect ninja_muffin99's request for all executables to be open sourced)
